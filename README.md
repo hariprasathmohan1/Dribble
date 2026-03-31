@@ -131,6 +131,6 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-
+![alt text](<hari/myapp/static/Screenshot 2026-03-31 115126.png>)
 ## RESULT:
 The project for responsive web design in creating a clone of dribble.com is completed successfully.
