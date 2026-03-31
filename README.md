@@ -39,7 +39,6 @@ Publish the website in the LocalHost.
 
 ## PROGRAM :
 ```
-<!DOCTYPE html>
 <html>
 <head>
     <title>Simple Dribbble Clone</title>
@@ -119,9 +118,7 @@ Publish the website in the LocalHost.
 
     </div>
 </div>
-
 <br>
-
 <!-- Footer -->
 <footer class="container text-center">
     <hr>
@@ -134,7 +131,6 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](<hari/myapp/static/Screenshot (38).png>)
 
 ## RESULT:
 The project for responsive web design in creating a clone of dribble.com is completed successfully.
