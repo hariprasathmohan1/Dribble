@@ -45,7 +45,6 @@ Publish the website in the LocalHost.
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Simple Dribble Clone</title>
 
-    <!-- Bootstrap 5 CDN -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
@@ -85,7 +84,6 @@ Publish the website in the LocalHost.
         </div>
     </nav>
 
-    <!-- Hero Section -->
     <div class="container-fluid bg-light py-5">
         <div class="container text-center">
             <h2 class="fw-bold">What are you working on?</h2>
@@ -95,7 +93,6 @@ Publish the website in the LocalHost.
         </div>
     </div>
 
-    <!-- Section Title -->
     <div class="container my-4">
         <div class="row">
             <div class="col text-center">
@@ -105,7 +102,6 @@ Publish the website in the LocalHost.
         </div>
     </div>
 
-    <!-- Cards Section -->
     <div class="container mb-4">
         <div class="row g-2">
 
@@ -167,12 +163,10 @@ Publish the website in the LocalHost.
         </div>
     </div>
 
-    <!-- Footer -->
     <footer class="bg-dark text-white text-center py-3">
         <p class="mb-0">M.Hari prasath - (25018172)</p>
     </footer>
 
-    <!-- Bootstrap JS CDN -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
