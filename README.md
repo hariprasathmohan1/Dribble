@@ -1,5 +1,5 @@
 # Case Study: Dribble Clone
-## Date:01.04.2026
+## Date:02.04.2026
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
@@ -180,6 +180,9 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](<hari/myapp/static/Screenshot 2026-03-31 115126.png>)
+![alt text](<harib/alwaysapp/static/Screenshot (45).png>)
+
+
 ## RESULT:
 The project for responsive web design in creating a clone of dribble.com is completed successfully.
+
